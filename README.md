@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-![Описание](image/profile.jfif)
+![I](Image/profile.jfif)
 
